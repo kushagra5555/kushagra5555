@@ -1,6 +1,6 @@
 # Hi, I'm Kushagra Chaudhary 👋
 
-Full-stack AI product engineer from Dehradun, India. I build practical systems that connect thoughtful user experiences to reliable backend workflows.
+AI Engineer from Dehradun, India. I build practical intelligent systems with Python, Gemini, LangGraph, React, and reliable backend workflows.
 
 ## Engineering focus
 
@@ -33,4 +33,4 @@ Evidence-grounded document investigation workflow built with LangGraph and Gemin
 
 [Visit my current portfolio](https://kushagra5555.github.io)
 
-I am interested in full-stack development, AI product engineering, document intelligence, and building useful tools from prototype to production.
+I am interested in AI engineering, document intelligence, speech systems, evaluation, and building useful tools from prototype to production.
