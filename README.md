@@ -23,7 +23,7 @@ Evidence-grounded document investigation workflow built with LangGraph and Gemin
 
 - [Maison Glow 3D](https://github.com/kushagra5555/maison-glow-3d) — React, TypeScript, Three.js, and Vite
 - [Arogyadham Wellness Website](https://github.com/kushagra5555/aarogyadham-wellness-website) — responsive wellness product website
-- [Personal Portfolio](https://github.com/kushagra5555/kushagra-portfolio) — portfolio and project presentation
+- [Current Portfolio](https://kushagra5555.github.io) — latest portfolio and project presentation
 
 ## Tech stack
 
@@ -31,6 +31,6 @@ Evidence-grounded document investigation workflow built with LangGraph and Gemin
 
 ## Portfolio and contact
 
-[Visit my portfolio](https://kushagra5555.github.io)
+[Visit my current portfolio](https://kushagra5555.github.io)
 
 I am interested in full-stack development, AI product engineering, document intelligence, and building useful tools from prototype to production.
